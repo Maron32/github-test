@@ -1,3 +1,6 @@
+# index.mdへのリンク
+[index.md](index.md)
+
 # 強調：斜体
 github *Practice* github
 
@@ -17,5 +20,3 @@ github ~~Practice~~ github
 %イエロー%{#ffdc00}  
 %アクア%{rgb(0,255,255)}
 
-# index.mdへのリンク
-[index.md](index.md)
