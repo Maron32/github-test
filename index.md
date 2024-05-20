@@ -1,3 +1,6 @@
+# secound.mdへのリンク
+[secondへのリンク](secound.md)
+
 # 改行されない場合の例
 こんにちは
 世界
