@@ -13,13 +13,9 @@ github ~~Practice~~ github
 |left|center|right|
 |a|b|c|
 
-# Note：補足説明
-:::note info  
-インフォメーション  
-github  
-:::
+# 文字色変更
+%イエロー%{#ffdc00}  
+%アクア%{rgb(0,255,255)}
 
-:::note warn  
-インフォメーション  
-github  
-:::
+# index.mdへのリンク
+[index.md](index.md)
